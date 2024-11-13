@@ -3,8 +3,7 @@ document.write('<div style="text-align:center;display:block;max-width:729px;heig
 
 //Paste Iklan Disini
 
-document.write('<script type="text/javascript">document.write(atob("CglhdE9wdGlvbnMgPSB7CgkJJ2tleScgOiAnOTcxMjdjYzU3ZGM5M2NmYzM0YjU3ZjhkNjRkMWQ1YzYnLAoJCSdmb3JtYXQnIDogJ2lmcmFtZScsCgkJJ2hlaWdodCcgOiA5MCwKCQknd2lkdGgnIDogNzI4LAoJCSdwYXJhbXMnIDoge30KCX07Cglkb2N1bWVudC53cml0ZSgnPHNjcicgKyAnaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSIvL3d3dy5oaWdocGVyZm9ybWFuY2Vmb3JtYXQuY29tLzk3MTI3Y2M1N2RjOTNjZmMzNGI1N2Y4ZDY0ZDFkNWM2L2ludm9rZS5qcyI+PC9zY3InICsgJ2lwdD4nKTsK"))</script>');
-
+<script src="https://toolsquasar.github.io/apatar/ads.js"></script>
 // Batas Iklan
 
 document.write('</div>');
